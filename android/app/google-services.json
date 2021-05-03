@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "852600538529",
+    "project_id": "srm-guru",
+    "storage_bucket": "srm-guru.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:852600538529:android:65799adaf220e70ea137e0",
+        "android_client_info": {
+          "package_name": "com.example.srm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "852600538529-3t0c027ermodt3j1pjbrk4q2lb0699is.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.srm",
+            "certificate_hash": "b11cc2b05217b2f1d92c5b2794ee63e656086a3a"
+          }
+        },
+        {
+          "client_id": "852600538529-jn93gioqm0s0r3i1m76278vmnhek6q8p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBpjbpXTqmJ5MrHpOxn8HdBfc1gaNsQjW4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "852600538529-jn93gioqm0s0r3i1m76278vmnhek6q8p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
